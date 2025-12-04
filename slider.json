@@ -4,16 +4,23 @@
   "ads": [
     {
       "id": 1,
-      "title": "دورة المراجعة النهائية",
-      "image_url": "https://your-domain.com/images/ad1.jpg",
-      "action_url": "https://youtube.com/watch?v=...",
+      "title": "قناة يوتيوب",
+      "image_url": "https://github.com/abdellahdev3/countdown-app/blob/main/enjoyyoutube.png",
+      "action_url": "https://www.youtube.com/c/BacFeljib?sub_confirmation=1",
       "priority": 1
     },
     {
       "id": 2,
-      "title": "حمل ملخص العلوم",
-      "image_url": "https://your-domain.com/images/ad2.png",
-      "action_url": "https://bac-feljib.com/download/...",
+      "title": "قناة تيليغرام",
+      "image_url": "https://github.com/abdellahdev3/countdown-app/blob/main/enjoytelegram.png",
+      "action_url": "https://t.me/bacfeljib",
+      "priority": 2
+    },
+     {
+      "id": 2,
+      "title": "قناة انستغرام",
+      "image_url": "https://github.com/abdellahdev3/countdown-app/blob/main/enjoyinstagram.png",
+      "action_url": "https://www.instagram.com/bac.feljib/",
       "priority": 2
     }
   ]
