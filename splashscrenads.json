@@ -1,19 +1,19 @@
 {
   "ads": [
     {
-      "id": "vip_school_promo",
-      "image_url": "https://link/school.jpg",
-      "click_url": "https://instagram.com/school",
+      "id": "bac_feljib_welcome",
+      "image_url": "https://raw.githubusercontent.com/abdellahdev3/countdown-app/main/SplashScreenad.png",
+      "click_url": "", 
       "is_active": true,
       "priority": 100,
-      "is_clickable": true,
-      "note": "هذا إعلان عادي يمكن الضغط عليه"
+      "is_clickable": false,
+      "note": "صورة ترحيبية رسمية للتطبيق"
     },
     {
       "id": "eid_greeting_card",
       "image_url": "https://link/eid_mubarak.jpg",
       "click_url": "", 
-      "is_active": true,
+      "is_active": false,
       "priority": 100,
       "is_clickable": false,
       "note": "هذه مجرد صورة تهنئة، لن يحدث شيء عند الضغط عليها"
