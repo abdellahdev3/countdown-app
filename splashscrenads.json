@@ -1,0 +1,22 @@
+{
+  "ads": [
+    {
+      "id": "vip_school_promo",
+      "image_url": "https://link/school.jpg",
+      "click_url": "https://instagram.com/school",
+      "is_active": true,
+      "priority": 100,
+      "is_clickable": true,
+      "note": "هذا إعلان عادي يمكن الضغط عليه"
+    },
+    {
+      "id": "eid_greeting_card",
+      "image_url": "https://link/eid_mubarak.jpg",
+      "click_url": "", 
+      "is_active": true,
+      "priority": 100,
+      "is_clickable": false,
+      "note": "هذه مجرد صورة تهنئة، لن يحدث شيء عند الضغط عليها"
+    }
+  ]
+}
