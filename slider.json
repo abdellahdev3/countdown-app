@@ -2,26 +2,33 @@
   "slider_interval": 5000,
   "is_active": true,
   "ads": [
+     {
+      "id": 0,
+      "title": "انشودة حصون العلم ",
+      "image_url": "https://raw.githubusercontent.com/abdellahdev3/countdown-app/main/nasheed.webp",
+      "action_url": "https://youtu.be/FHw0VMFf0yQ?si=GQzM-FUdCeAvcSCI",
+      "priority": 1
+    },
     {
       "id": 1,
       "title": "قناة يوتيوب",
       "image_url": "https://raw.githubusercontent.com/abdellahdev3/countdown-app/main/enjoyyoutube.png",
       "action_url": "https://www.youtube.com/c/BacFeljib?sub_confirmation=1",
-      "priority": 1
+      "priority": 2
     },
     {
       "id": 2,
       "title": "قناة تيليغرام",
       "image_url": "https://raw.githubusercontent.com/abdellahdev3/countdown-app/main/enjoytelegram.png",
       "action_url": "https://t.me/bacfeljib",
-      "priority": 2
+      "priority": 3
     },
     {
       "id": 3,
       "title": "قناة انستغرام",
       "image_url": "https://raw.githubusercontent.com/abdellahdev3/countdown-app/main/enjoyinstagram.png",
       "action_url": "https://www.instagram.com/bac.feljib/",
-      "priority": 3
+      "priority": 4
     }
   ]
 }
