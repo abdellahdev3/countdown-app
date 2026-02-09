@@ -3,7 +3,7 @@
     {
       "id": "home_promo_2024",
       "location": "home_top",
-      "imageUrl": "YOUR_IMAGE_URL",
+      "imageUrl": "https://raw.githubusercontent.com/abdellahdev3/countdown-app/main/nasheed.webp",
       "linkUrl": "YOUR_LINK_URL",
       "title": "Special Offer",
       "active": true,
