@@ -1,0 +1,13 @@
+{
+  "banners": [
+    {
+      "id": "home_promo_2024",
+      "location": "home_top",
+      "imageUrl": "YOUR_IMAGE_URL",
+      "linkUrl": "YOUR_LINK_URL",
+      "title": "Special Offer",
+      "active": true,
+      "priority": 10
+    }
+  ]
+}
