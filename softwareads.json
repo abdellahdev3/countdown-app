@@ -3,9 +3,9 @@
     {
       "id": "home_promo_2024",
       "location": "home_top",
-      "imageUrl": "https://raw.githubusercontent.com/abdellahdev3/countdown-app/main/nasheed.webp",
-      "linkUrl": "https://www.bac-feljib.com",
-      "title": "Special Offer",
+      "imageUrl": "https://raw.githubusercontent.com/abdellahdev3/countdown-app/main/aadpro.webp",
+      "linkUrl": "bac-feljib.com/p/get-premium.html",
+      "title": "حساب Pro",
       "active": true,
       "priority": 10
     }
