@@ -1,50 +1,50 @@
 {
-  "season": "2025-2026",
-  "seasonLabelAr": "الموسم الدراسي 2025–2026",
-  "examDate": "2026-06-07T07:00:00Z",
-  "examYear": 2026,
+  "season": "2026-2027",
+  "seasonLabelAr": "الموسم الدراسي 2026–2027",
+  "examDate": "2027-06-07T07:00:00Z",
+  "examYear": 2027,
   "timeline": [
     {
       "title": "بداية الموسم الدراسي",
-      "startDate": "2025-09-06",
+      "startDate": "2026-09-06",
       "durationDays": 1
     },
     {
       "title": "اختبارات الفصل الأول",
-      "startDate": "2025-12-11",
+      "startDate": "2026-12-11",
       "durationDays": 5
     },
     {
       "title": "اختبارات الفصل الثاني",
-      "startDate": "2026-03-11",
+      "startDate": "2027-03-11",
       "durationDays": 5
     },
     {
       "title": "بكالوريا تجريبية",
-      "startDate": "2026-05-14",
+      "startDate": "2027-05-14",
       "durationDays": 5
     },
     {
       "title": "امتحان البكالوريا",
-      "startDate": "2026-06-07",
+      "startDate": "2027-06-07",
       "durationDays": 5
     },
     {
       "title": "نتائج البكالوريا",
-      "startDate": "2026-07-12",
+      "startDate": "2027-07-12",
       "durationDays": 1
     },
     {
       "title": "التوجيه الجامعي: اختيار الرغبات",
-      "startDate": "2026-07-15",
+      "startDate": "2027-07-15",
       "durationDays": 11,
       "dateLabelOverride": "من 15 جويلية إلى 25 جويلية"
     },
     {
       "title": "التوجيه الجامعي: التوجيه النهائي",
-      "startDate": "2026-08-05",
+      "startDate": "2027-08-05",
       "durationDays": 1
     }
   ],
-  "updatedAt": "2026-08-01T17:00:00Z"
+  "updatedAt": "2027-08-01T17:00:00Z"
 }
